@@ -75,6 +75,7 @@ This dashboard provides comprehensive insights into the used car sales data from
 - **Segment Analysis**:
   - Examines factors influencing horsepower ranges.
 - **Insight**: The likelihood of having horsepower between 150-200 HP increases significantly when the car price is 62,500 AED or less.
+---
 ~~~
 ![](Group9 project dashbord.JPG)
 ## Conclusions
