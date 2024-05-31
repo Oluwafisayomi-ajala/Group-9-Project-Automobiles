@@ -1,13 +1,9 @@
-# Group-9-Project-Automobiles
-This project was led by me at Incubators 
----
 # Dubizzle Company Used Cars Sales Dashboard (Group9 Project)
-
+---
 ![Dubizzle Company Used Cars Sales Dashboard](https://github.com/your-username/your-repository-name/blob/main/Group9%20project%20dashbord.jpg)
 
 ## Dataset Source
 ---
-
 This dataset was sourced from [Kaggle](https://www.kaggle.com), where it was provided for analysis of used car sales in the UAE through Dubizzle. The data includes a comprehensive set of attributes related to vehicle specifications, conditions, and sales details.
 
 ## Dashboard Overview
@@ -56,7 +52,6 @@ This dashboard provides comprehensive insights into the used car sales data from
 - **Insight**: Similar to body condition, most cars have excellent mechanical conditions, suggesting reliable quality in listings.
 
 ### 6. Price by Body Type
----
 - **Table**:
   - SUV: 7M AED
   - Sedan: 2.56M AED
@@ -65,21 +60,13 @@ This dashboard provides comprehensive insights into the used car sales data from
 - **Insight**: SUVs are the most valuable body type, followed by sedans and coupes.
 
 ### 7. Price by Kilometer in Range
----
 - **Line Chart**:
   - Shows the relationship between the price and the distance traveled by the car.
 - **Insight**: There is a noticeable decrease in car price as the kilometers traveled increase, reflecting typical depreciation patterns.
-
-### 8. Key Influencers
 ---
-- **Segment Analysis**:
-  - Examines factors influencing horsepower ranges.
-- **Insight**: The likelihood of having horsepower between 150-200 HP increases significantly when the car price is 62,500 AED or less.
 ---
-~~~
-![](Group9 project dashbord.JPG)
 ## Conclusions
----
+
 1. **Market Value and Pricing**: The used car market on Dubizzle is substantial, with a total value of 130M AED. The prices vary widely, from as low as 13,500 AED to as high as 3M AED, with an average price of 262,265 AED.
 2. **Car Condition**: The majority of cars are in perfect condition both internally and externally, which could attract buyers looking for well-maintained vehicles.
 3. **Fuel Type Dominance**: Gasoline cars overwhelmingly dominate the market, with diesel and electric cars making up a very small fraction.
