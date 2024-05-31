@@ -12,6 +12,7 @@ This dashboard provides comprehensive insights into the used car sales data from
 
 ## Graphs and Insights
 ---
+~~~
 ### 1. Total Price, Maximum Price, Minimum Price, Average Price
 - **Total Price (N(M))**: 130M AED
 - **Maximum Price (N(M))**: 3M AED
