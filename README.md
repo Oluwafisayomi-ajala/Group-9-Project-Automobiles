@@ -11,9 +11,10 @@ This dataset was sourced from [Kaggle](https://www.kaggle.com), where it was pro
 This dashboard provides comprehensive insights into the used car sales data from Dubizzle, focusing on total sales value, price distributions, body condition, fuel type, regional specifications, and more. The dashboard helps identify key factors influencing car prices and the overall market trends in the UAE.
 
 ## Graphs and Insights
----
-~~~
-![](Group 9 project .jpg)
+
+
+![](IMG-20240531-WA0006.jpg)
+
 ### 1. Total Price, Maximum Price, Minimum Price, Average Price
 - **Total Price (N(M))**: 130M AED
 - **Maximum Price (N(M))**: 3M AED
@@ -30,6 +31,7 @@ This dashboard provides comprehensive insights into the used car sales data from
 
 ### 3. Percentage by Fuel Type
 ---
+![](IMG-20240531-WA0006.jpg)
 - **Pie Chart**:
   - Gasoline: 97%
   - Diesel: 2%
@@ -38,6 +40,7 @@ This dashboard provides comprehensive insights into the used car sales data from
 
 ### 4. Price by Regional Specs (N(M))
 ---
+![](IMG-20240531-WA0006.jpg)
 - **Bar Chart**:
   - GCC Specs: 89M AED
   - European Specs: 21M AED
